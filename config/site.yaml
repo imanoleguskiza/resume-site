@@ -1,0 +1,24 @@
+title: Imanol Eguskiza
+description: Yep, that's me.
+author:
+  name: Imanol Eguskiza
+  email: 'ier@opendeusto.es'
+metadata:
+    description: 'This is the personal webpage of Imanol Eguskiza'
+
+links:
+    - text: "Mail"
+      url:  "mailto:ier@opendeusto.es"
+      icon: "envelope"
+    - text: "Linkedin"
+      url: "https://www.linkedin.com/in/imanole/"
+      icon: "linkedin"
+    - text: "Github"
+      url:  "https://github.com/imanoleguskiza"
+      icon: "github"
+    - text: "Drupal.org"
+      url:  "https://www.drupal.org/u/ieguskiza"
+      icon: "drupal"
+    - text: "Twitter"
+      url:  "https://twitter.com/imanoleguskiza"
+      icon: "twitter"

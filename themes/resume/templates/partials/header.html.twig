@@ -1,0 +1,31 @@
+<div id="header">
+    <div class="row">
+        <div class="large-7 columns">
+            {% if site.title %}
+                <h2>{{ site.title }}</h2>
+            {% endif %}   
+            {% if site.description %}
+                <h6 class="light">{{ site.description }}</h6>
+            {% endif %}
+        </div>
+        <div class="large-5 columns">
+            <div class="small-3 columns light2 italic">
+                Contact:
+            </div>
+            <div class="small-9 columns light2 border-left">
+            {%  for column in site.links | batch(3) %}
+                <div class="small-6 columns link-column light2">
+                    <ul class="no-bullet">
+                        {% for item in column %}
+                            <li class="social-media">
+                                <i class="fa fa-{{ item.icon }}"></i>
+                                <a class="link" href="{{ item.url }}">{{ item.text }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
