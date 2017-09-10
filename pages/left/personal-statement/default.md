@@ -5,8 +5,14 @@ taxonomy:
     category: top
 ---
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.Donec id elit non mi porta gravida at eget metus..
+Hi all,
 
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. 
+I'm Imanol Eguskiza, a 28 year old web developer from the [Basque Country](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)).
 
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. 
+I've been developing web applications since I finished my masters degree on computer science in Bilbao, mainly as a full stack Drupal developer.
+
+After a brief affair with Java and the Vaddin framework during my college years I moved to Brussels looking for a career and I learned about Drupal and started building my first sites. I quickly started getting involved in the community and grew very fond of the open source world.
+
+My main role has been that of a back-end developer although I have also been tasked with various other jobs like front-end developing, defining requirements, defining migration plans and managing projects.
+I am a swift and able learner and have quickly and efficiently adapted to the requirements of different work environments and teams across different companies.  
+

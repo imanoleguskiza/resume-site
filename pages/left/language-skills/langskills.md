@@ -8,12 +8,12 @@ languages:
     level: 100
     animation: bounceIn
   - name: English
-    level_name: Advanced Level
-    level: 75  
+    level_name: Proficient
+    level: 90  
     animation: bounceIn
   - name: French
-    level_name: Basic Level
-    level: 25  
+    level_name: Advanced level
+    level: 75  
     animation: bounceIn
     
 taxonomy:
