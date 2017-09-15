@@ -12,11 +12,17 @@ interests:
     - icon: book
       activity: Reading
       animation: fadeIn   
-    - icon: beer
-      activity: Beer
+    - icon: plane
+      activity: Travels
+      animation: fadeIn
+    - icon: tree
+      activity: Nature
+      animation: fadeIn
+    - icon: music
+      activity: Music
       animation: fadeIn     
 
 
 taxonomy:
-    category: left
+    category: bottom
 ---

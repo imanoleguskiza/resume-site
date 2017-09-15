@@ -7,6 +7,10 @@ languages:
     level_name: Mother Language
     level: 100
     animation: bounceIn
+  - name: Basque
+    level_name: Mother Language
+    level: 100
+    animation: bounceIn
   - name: English
     level_name: Proficient
     level: 90  
