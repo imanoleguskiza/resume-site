@@ -5,8 +5,8 @@ body {
   margin-top: 3rem;
 }
 .main {
-  margin-top: 4rem;
-  margin-bottom: 3rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* Headings */
@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 h4 {
   font-weight: 400;
   border-bottom: 2px dotted;
-  padding-top: 4rem;
+  padding-top: 2rem;
   padding-bottom: 1rem;
   margin-bottom: 1.5rem;
 }
