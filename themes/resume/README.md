@@ -12,7 +12,7 @@ Resume by [Fernando Báez](https://www.behance.net/gallery/FREE-Resume-Template/
 * Specialities layout with custom icons and descriptions
 * Design Skills layout with percentage grid
 * Language Skills layout with automatic pie charts
-* Education history special layout
+* Timeline special layout
 * Experience layout
 * Recognitions layout with SVG ribbon
 * Hobbies & Interests layout with custom icons and descriptions
@@ -127,18 +127,18 @@ Example language skills page is located in [skeleton](https://github.com/getgrav
 * **level** - percentage to display, ie: if you set that field to 50 then half of pie chart will be dark and half greyed out.
 * **animation** - you can animate each element. Check available animations [here](https://daneden.github.io/animate.css/).
 
-## Education
-This layout is designed to present your education history. Example page is located in [skeleton](https://github.com/getgrav/grav-skeleton-resume-site), in: **pages/right/education/education.md**
+## Timeline
+This layout is designed to present a simple timeline of items.
 
 ```markdown
 - date: From September 2010 to September 2013.
   topic: Industrial Design.
-  school: Universidad Antonio de Nebrija. Madrid.
+  location: Universidad Antonio de Nebrija. Madrid.
 ```
 
-* **date** - describe time when you were studying
-* **topic** - provide description of your education
-* **school** - provide place of your education
+* **date** - time of the item
+* **topic** - provide description for the item
+* **location** - provide place for the item
 
 ## Experience
 

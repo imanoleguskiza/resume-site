@@ -196,18 +196,18 @@ path[data-id="s0"] {
   float: left;
 }
 
-/* Education */
-.edu_surround {
+/* Timeline */
+.timeline_surround {
   position: relative;
   margin-top: 3em;
 }
-.edu {
+.timeline {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
   border-left: 3px solid;
   padding-left: 2rem;
 }
-.edu:before {
+.timeline:before {
   width: 0;
   height: 0;
   border-style: solid;
@@ -219,7 +219,7 @@ path[data-id="s0"] {
   left: -0.2rem;
   top: -0.5rem;
 }
-.edu:after {
+.timeline:after {
   display: block;
   width: 0.6rem;
   height: 0.6rem;
@@ -231,10 +231,10 @@ path[data-id="s0"] {
   left: -0.2rem;
   bottom: 0;
 }
-.edu_item {
+.timeline_item {
   padding-bottom: 2rem;
 }
-.edu_item:before {
+.timeline_item:before {
   display: block;
   width: 1rem;
   height: 1rem;
@@ -246,7 +246,7 @@ path[data-id="s0"] {
   left: -0.4rem;
   margin-top: 2rem;
 }
-.edu .topic {
+.timeline .topic {
   color: #6D6E71;
 }
 

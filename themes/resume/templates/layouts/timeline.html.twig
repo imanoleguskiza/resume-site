@@ -3,14 +3,14 @@
 
 {{ module.content }}
 
-{% if module.header.education %}
-<div class="edu_surround">
-  <div class="edu animated">
-    {% for item in module.header.education %}
-      <div class="edu_item">
+{% if module.header.timeline %}
+<div class="timeline_surround">
+  <div class="timeline animated">
+    {% for item in module.header.timeline %}
+      <div class="timeline_item">
         <div class="date">{{ item.date }}</div>
         <div class="topic">{{ item.topic }}</div>
-        <div class="school">{{ item.school }}</div>
+        <div class="location">{{ item.location }}</div>
       </div>
     {% endfor %}
   </div>
