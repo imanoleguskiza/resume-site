@@ -1,5 +1,7 @@
+absolute_urls: false
+timezone: Europe/Brussels
 home:
-  alias: '/home'
+  alias: '/resume'
 
 pages:
   theme: resume
