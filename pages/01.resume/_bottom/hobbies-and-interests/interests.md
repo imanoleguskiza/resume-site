@@ -1,26 +1,27 @@
 ---
-title: Hobbies & Interests
+title: What am I
 date: 13:34 02/21/2014 
 
 interests:
+    - icon: cutlery
+      activity: Amateur cook
+      animation: fadeIn  
+    - icon: plane
+      activity: Backpacker
+      animation: fadeIn
     - icon: gamepad
-      activity: Games
+      activity: Amateur gamer
       animation: fadeIn
     - icon: ticket
-      activity: Cinema
+      activity: Cinema lover
       animation: fadeIn  
     - icon: book
-      activity: Reading
+      activity: Bookworm
       animation: fadeIn   
-    - icon: plane
-      activity: Travels
+    - icon: beer
+      activity: Beer Afficionado
       animation: fadeIn
-    - icon: tree
-      activity: Nature
-      animation: fadeIn
-    - icon: music
-      activity: Music
-      animation: fadeIn     
+   
 
 
 taxonomy:
