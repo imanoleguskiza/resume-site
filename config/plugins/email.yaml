@@ -1,0 +1,15 @@
+enabled: true
+from: contact@imanoleguskiza.com
+to: contact@imanoleguskiza.com
+mailer:
+  engine: mail
+  smtp:
+    server: 
+    port: 25
+    encryption: none
+    user: ''
+    password: ''
+  sendmail:
+    bin: '/usr/sbin/sendmail'
+content_type: text/html
+debug: false
