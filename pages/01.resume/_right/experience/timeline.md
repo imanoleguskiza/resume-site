@@ -3,7 +3,10 @@ title: EXPERIENCE
 date: 13:34 06/21/2014 
 
 timeline:
-  - date: From 2015 to present
+  - date: From 2018 to present
+    topic: Drupal Consultant
+    location: Freelance. London.
+  - date: From 2015 to 2018
     topic: Drupal Consultant at the European Commission.
     location: Everis Belgium. Brussels.
   - date: From 2014 to 2015

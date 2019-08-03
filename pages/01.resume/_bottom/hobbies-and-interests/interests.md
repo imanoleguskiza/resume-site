@@ -10,7 +10,7 @@ interests:
       activity: Backpacker
       animation: fadeIn
     - icon: gamepad
-      activity: Amateur gamer
+      activity: Gamer
       animation: fadeIn
     - icon: ticket
       activity: Cinema lover

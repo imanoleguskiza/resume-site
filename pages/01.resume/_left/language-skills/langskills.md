@@ -4,11 +4,11 @@ date: 13:34 02/21/2014
 
 languages:
   - name: Spanish
-    level_name: Mother Language
+    level_name: Native Speaker
     level: 100
     animation: bounceIn
   - name: Basque
-    level_name: Mother Language
+    level_name: Native Speaker
     level: 100
     animation: bounceIn
   - name: English
